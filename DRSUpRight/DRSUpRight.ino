@@ -10,7 +10,7 @@
 #define STEERING A0
 #define BRAKE A1
 
-#define TESTMODE 1
+#define TESTMODE 0
 
 #define MINPRESS 25
 
